@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootfileuploadexApplication<springbootfileuploadex>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cgg.springboot.fileupload.springbootfileuploadex.SpringbootfileuploadexApplication",
+            "projectName": "springbootfileuploadex",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
